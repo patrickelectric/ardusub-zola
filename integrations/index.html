@@ -271,11 +271,11 @@ flowchart TD
 </pre>
 </div>
 
-<script src="https://docs.bluerobotics.com/ardusub-zola/js/mermaid.min.js" />
+<script src="https://docs.bluerobotics.com/ardusub-zola/js/mermaid.min.js"></script>
 
 <!-- when this javascript is loaded and initialized it will look for divs with the class mermaid.
      it will replace the content of those divs with the generated svg -->
-<script type="module">
+<script>
  let darkMode = (
      localStorage.getItem('theme') === 'dark'
      || !localStorage.getItem('theme') && window.matchMedia("(prefers-color-scheme: dark)").matches
