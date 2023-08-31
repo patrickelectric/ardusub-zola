@@ -51,7 +51,7 @@
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/hardware/additional/sonars/</loc>
-        <lastmod>2022-10-11T17:33:19+11:00</lastmod>
+        <lastmod>2023-08-04T23:40:00+11:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/hardware/recommended/</loc>
@@ -70,7 +70,7 @@
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/hardware/recommended/tether-interface/</loc>
-        <lastmod>2022-10-11T17:33:19+11:00</lastmod>
+        <lastmod>2023-08-04T23:45:00+11:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/hardware/required/</loc>
@@ -131,12 +131,38 @@
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/autopilot/ArduSub-4.1/developers/</loc>
     </url>
     <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/autopilot/ArduSub-4.1/developers/log-messages/</loc>
+        <lastmod>2023-05-04T17:13:47+10:00</lastmod>
+    </url>
+    <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/autopilot/ArduSub-4.1/developers/mavlink-messages/</loc>
         <lastmod>2022-12-16T16:28:27+11:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/autopilot/ArduSub-4.1/developers/parameters/</loc>
         <lastmod>2022-12-16T22:16:04+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/</loc>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/Cockpit-0.0/</loc>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/Cockpit-0.0/advanced-usage/</loc>
+        <lastmod>2023-08-31T01:30:00+10:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/Cockpit-0.0/getting-started/</loc>
+        <lastmod>2023-08-25T13:00:00+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/Cockpit-0.0/installation/</loc>
+        <lastmod>2023-08-25T12:00:00+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/control-station/Cockpit-0.0/overview/</loc>
+        <lastmod>2023-08-31T01:30:00+10:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/</loc>
@@ -168,8 +194,23 @@
         <lastmod>2023-03-08T12:30:00+11:00</lastmod>
     </url>
     <url>
-        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/extensions/</loc>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/development/</loc>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/development/bootstrap/</loc>
+        <lastmod>2023-06-02T18:30:00+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/development/core/</loc>
+        <lastmod>2023-06-01T19:30:00+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/development/extensions/</loc>
         <lastmod>2023-03-08T12:30:00+11:00</lastmod>
+    </url>
+    <url>
+        <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/development/overview/</loc>
+        <lastmod>2023-06-01T19:30:00+11:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/getting-started/</loc>
@@ -177,10 +218,10 @@
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/installation/</loc>
-        <lastmod>2023-02-17T22:30:00+11:00</lastmod>
+        <lastmod>2023-08-25T07:10:00+11:00</lastmod>
     </url>
     <url>
         <loc>https://docs.bluerobotics.com/ardusub-zola/software/onboard/BlueOS-1.1/overview/</loc>
-        <lastmod>2023-02-16T16:05:00+11:00</lastmod>
+        <lastmod>2023-08-30T02:50:00+11:00</lastmod>
     </url>
 </urlset>
